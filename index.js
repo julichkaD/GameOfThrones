@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import ScotchInfoBar from "./ScotchInfoBar";
-import "./styles.css";
+import ScotchInfoBar from "./src/ScotchInfoBar";
+import "./src/styles.css"
 import axios from "axios";
 
 function App() {
